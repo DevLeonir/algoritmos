@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Página-1" id="0GbYW-Dmfk2oEydlXNNZ">
+    <mxGraphModel dx="1195" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-33" value="INÍCIO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-999" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4oHgwtmd2JQmbN_alHVM-34" target="4oHgwtmd2JQmbN_alHVM-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-34" value="&quot;Digite o preço&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-899" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4oHgwtmd2JQmbN_alHVM-33" target="4oHgwtmd2JQmbN_alHVM-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="384" y="-699" as="sourcePoint" />
+            <mxPoint x="434" y="-749" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4oHgwtmd2JQmbN_alHVM-36" target="4oHgwtmd2JQmbN_alHVM-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-36" value="Preço" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-779" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4oHgwtmd2JQmbN_alHVM-38" target="4oHgwtmd2JQmbN_alHVM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-38" value="&quot;Digite o percentual&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-669" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4oHgwtmd2JQmbN_alHVM-40" target="4oHgwtmd2JQmbN_alHVM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-40" value="Percentual" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-549" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4oHgwtmd2JQmbN_alHVM-42" target="4oHgwtmd2JQmbN_alHVM-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-42" value="Novo = Preço - (preço * percentual /100)" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="299" y="-449" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4oHgwtmd2JQmbN_alHVM-44" target="4oHgwtmd2JQmbN_alHVM-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-44" value="&quot;Novo preço = &quot;, novo" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="349" y="-349" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4oHgwtmd2JQmbN_alHVM-46" value="FIM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-229" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
